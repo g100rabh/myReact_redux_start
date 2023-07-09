@@ -1,0 +1,16 @@
+{
+  "name": "my-react14_redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "redux-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "edux": "^0.2.2",
+    "redux": "^4.2.1"
+  }
+}
